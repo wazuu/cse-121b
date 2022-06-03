@@ -36,3 +36,5 @@ function convert_from_kelvin(val){
         })
         .catch(err => alert('Please enter a valid city!'))
     })
+
+print("end")
